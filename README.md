@@ -1,0 +1,1 @@
+Hey there! This code is for the Assistive Vision Simulator project from ReDx 2015.
