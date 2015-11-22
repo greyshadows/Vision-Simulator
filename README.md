@@ -1,1 +1,5 @@
-Hey there! This code is for the Assistive Vision Simulator project from ReDx 2015.
+# Assistive Vision Simulator
+
+Hi !
+
+This project was developed as a part of RedX2015 Workshop.
